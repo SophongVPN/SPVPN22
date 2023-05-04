@@ -1,10 +1,9 @@
 {
 "Version":"4",
-"Url"https://raw.githubusercontent.com/SophongVPN/SPVPN22/main/SPVPN.zip",
+"Url":"https://raw.githubusercontent.com/SophongVPN/SPVPN22/main/SPVPN.zip",
 "Changelog":"
 
 Hello would!!!?
-OpenVPN Update 2023
 
 ",
  "releaseNotes": [
