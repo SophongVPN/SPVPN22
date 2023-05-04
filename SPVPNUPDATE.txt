@@ -1,5 +1,5 @@
 {
-"Version":"4",
+"Version":"5",
 "Url":"https://raw.githubusercontent.com/SophongVPN/SPVPN22/main/SPVPN.zip",
 "Changelog":"
 
