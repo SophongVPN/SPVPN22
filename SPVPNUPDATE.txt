@@ -1,6 +1,6 @@
 {
 "Version":"3",
-"Url":"https://github.com/SophongVPN/SPVPN22/blob/main/SPVPN.zip",
+"Url"https://raw.githubusercontent.com/SophongVPN/SPVPN22/main/SPVPN.zip",
 "Changelog":"
 
 Hello would!!!?
